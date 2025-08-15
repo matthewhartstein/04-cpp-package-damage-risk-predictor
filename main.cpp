@@ -109,6 +109,7 @@ void printSuggestion(double risk) {
 }
 
 int main() {
+    cout << endl;
     cout << MAGENTA << "=== PACKAGE DAMAGE RISK PREDICTOR WITH DASHBOARD ===" << RESET << "\n\n";
 
     int numShipments;
